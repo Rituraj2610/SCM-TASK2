@@ -5,7 +5,8 @@ using namespace std;
 int main()
 {
 	int n,i,m,z;
-	//Comment by Pawan Bhatt
+	//Comment by Pawan Bhatt.
+	//comment by Rohit Saini.
 	cout<<"\n> Press 1 for Addition";
 	cout<<"\n> Press 2 for Subtraction";
 	cout<<"\n> Press 3 for Multiplication";
